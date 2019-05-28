@@ -1,6 +1,7 @@
-# CrystalCult Colortheme
+# :crystal_ball: CrystalCult Colortheme 
 
-A dark colortheme I made a while ago. This repo contains Sublime Text 3, XCode 10 and Vim compliant versions. 
+A dark colortheme I made a while ago.  
+This repo contains Sublime Text 3, XCode 10 and Vim compliant versions. 
 
 <p align="center">
   <img src="https://github.com/nkleemann/crystalcult-theme/blob/master/screens/haskell.png" width="60%" height="100%"/>
